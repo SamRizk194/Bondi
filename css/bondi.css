@@ -46,3 +46,8 @@ body {
   color: var(--dark-color);
   background-color: var(--green-color);
 }
+
+.landing {
+  background-color: var(--dark-color);
+  min-height: calc(100vh - 72px);
+}
