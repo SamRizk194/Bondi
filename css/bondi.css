@@ -125,3 +125,7 @@ body {
 .our-work .box:hover::before {
   transform: translateX(0);
 }
+
+.description {
+  max-width: 400px;
+}
