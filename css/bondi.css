@@ -140,3 +140,7 @@ body {
 .team .box h4 {
   background-color: var(--green-color);
 }
+
+.project {
+  background-color: var(--dark-color);
+}
